@@ -1,0 +1,48 @@
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.exe
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.deps.json
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.json
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.dev.json
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfoInputs.cache
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfo.cs
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\refint\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.genruntimeconfig.cache
+C:\Users\Akcay\Desktop\Ödev\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\ref\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.exe
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.deps.json
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.json
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.dev.json
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfoInputs.cache
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfo.cs
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\refint\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.genruntimeconfig.cache
+C:\Users\Akcay\Desktop\Proglama\Ödev2\Oyun Programı\Oyun Programı\obj\Debug\net5.0\ref\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.exe
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.deps.json
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.json
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.runtimeconfig.dev.json
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\bin\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfoInputs.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.AssemblyInfo.cs
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\refint\Oyun Programı.dll
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.pdb
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\Oyun Programı.genruntimeconfig.cache
+C:\Users\Akcay\Desktop\Proglama\Ders-3 Ödev\Oyun Programı\Oyun Programı\obj\Debug\net5.0\ref\Oyun Programı.dll
